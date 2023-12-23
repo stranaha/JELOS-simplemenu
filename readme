@@ -1,1 +1,42 @@
-Credit: anthonycaccese (Art Book Next: https://github.com/anthonycaccese/art-book-next-jelos), the JELOS team (https://github.com/JustEnoughLinuxOS/jelos.org), and all of the individuals who created the icons and artwork.
+# JELOS theme for SimpleMenu
+This theme draws heavily upon the style inspired by Art Book Next (credit: anthonycaccese) which is the default theme for JustEnoughLinux OS (JELOS)
+
+*I highly recommend that you reorder your emulator links to match the flow in the backdrops*
+
+## Preview
+| ![system view](https://github.com/stranaha/JELOS-simplemenu/blob/main/configure.png) | ![menu](https://github.com/stranaha/JELOS-simplemenu/blob/main/gpsp_gameblabla.png) | 
+| -- | -- |
+| ![gamelist-view-1](https://github.com/stranaha/JELOS-simplemenu/blob/main/mplayer.png) | ![gamelist-view-2](https://github.com/stranaha/JELOS-simplemenu/blob/main/picodrive32x.png) |
+
+
+## Installation Instructions
+
+- Download the zip file from https://github.com/stranaha/JELOS-simplemenu/releases/tag/latest
+- Extract the JELOS folder to your computer
+- Copy the JELOS folder to the \gmenu2x\skins folder on your device's SD card
+- That's it!
+
+
+### Fonts
+
+You can modify the font and size used to display gamelists
+
+- Download your font of choice (must be a .ttf file)
+- Rename it 'font.ttf'
+- Upload it to the root of the JELOS folder, overwriting the original file
+- Once copied to your device, you can change the font size in skin.conf or through your device's theme menu
+
+## **Additional Notes**
+
+### **Acknowledgments**
+* Original Art Book Next theme made by anthonycaccese (https://github.com/anthonycaccese/art-book-next-jelos)
+* JELOS is property of the JELOS team (Jhttps://github.com/JustEnoughLinuxOS/jelos.org)
+* Icons and artwork are property of their respective creators
+* ChangaOne font is by [Eduardo Tunni](https://www.fontsquirrel.com/fonts/changa)
+* Theme was tested on MiyooCFW using a Powkiddy v90
+
+## **License**
+Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
+You are free to share and adapt this theme as long as you provide attribution back to me (and the above credits) as well share any updates you make under the same licence terms.
+
+Thank you for taking a look at this 😄
